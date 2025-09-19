@@ -1,2 +1,4 @@
 codestar_blog/
 env.py
+
+__pycache__/

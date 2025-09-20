@@ -2,3 +2,7 @@ codestar_blog/
 env.py
 
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python

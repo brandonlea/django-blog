@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 os.environ.setdefault("CLOUDINARY_URL", "cloudinary://336769485556534:6Tdkl2wGg90J7dx4QyYjjEJSpfM@dnwdhs1vg")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['.herokuapp.com', '127.0.0.1']
 
